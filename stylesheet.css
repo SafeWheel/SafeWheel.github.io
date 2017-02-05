@@ -64,6 +64,6 @@ li:hover {
 	color: 
 }
 
-li:.active {
+li.active {
 	border-bottom: 2px solid #f44242;
 }
