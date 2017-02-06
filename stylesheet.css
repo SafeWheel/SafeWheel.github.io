@@ -20,6 +20,7 @@ h1 {
 }
 
 #sub {
+    position: relative;
     padding: both;
     margin: auto;
 }
