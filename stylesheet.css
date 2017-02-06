@@ -19,10 +19,15 @@ h1 {
     padding: both;
 }
 
+#sub {
+    padding: both;
+    margin: auto;
+}
+
 body {
     /*background-color:#5f877d;
 width=500px;*/
-    background-color: #a0ffc7;
+    background-color: #f7f7f7;
 }
 
 #nav {
