@@ -35,7 +35,7 @@ width=500px;*/
 #nav {
     position: relative;
     background-color: white;
-    box-shadow: 2px 2px 6px;
+    box-shadow: 2px 2px 10px;
     border: 1px solid white;
     border-radius: 2.5px;
     margin: 0px 0px 8px 0px;
@@ -72,14 +72,16 @@ li a {
 
 #explain {
     background-color: white;
-    box-shadow: 2px 2px 6px;
+    box-shadow: 2px 2px 10px;
     color: black;
+    border-radius: 4px;
 }
 
 .explain {
     font-size: 14;
     text-align: center;
-    margin: auto;
+    margin: 4px;
     padding: both;
     width: 85%;
+    border-radius: 4px;
 }
